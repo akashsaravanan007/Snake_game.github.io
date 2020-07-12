@@ -3,7 +3,7 @@ HTML5 Snake Game from Scratch
 HTMLs latest canvas tag by designing the classing game, Snake.
 Done by UI,Animation,CSS,JS.
 
-
+![img1](https://user-images.githubusercontent.com/58935531/87250012-f0ea5080-c47f-11ea-80b3-997ffb966bbe.png)
 
 ![img2](https://user-images.githubusercontent.com/58935531/87249929-97822180-c47f-11ea-8f13-9b7d460b2738.png)
 
